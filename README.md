@@ -50,7 +50,7 @@ rails s
 - [Figma](https://www.figma.com) — Prototyping
 
 ## Acknowledgements
-Inspired by Jason and Chris's interest in fitness and specifically my appreciation of recreational fitness activities outside of weightlifting.
+
 
 ## Team Members
 - Jason R. Rocha(https://www.linkedin.com/in/jason-rocha-37188a150/)
